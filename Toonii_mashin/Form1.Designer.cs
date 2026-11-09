@@ -81,9 +81,9 @@
             this.button1.Size = new System.Drawing.Size(116, 65);
             this.button1.TabIndex = 1;
             this.button1.UseVisualStyleBackColor = true;
-            // 
+            ////
             // btnMC
-            // 
+            // ///
             this.btnMC.BackColor = System.Drawing.Color.MintCream;
             this.btnMC.FlatAppearance.BorderColor = System.Drawing.Color.CornflowerBlue;
             this.btnMC.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -109,7 +109,7 @@
             this.btnMR.TabIndex = 3;
             this.btnMR.Text = "MR";
             this.btnMR.UseVisualStyleBackColor = false;
-            // 
+            // //
             // btnMS
             // 
             this.btnMS.BackColor = System.Drawing.Color.MintCream;
